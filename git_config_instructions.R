@@ -1,4 +1,4 @@
-### 3. Configure git with Rstudio ############################################
+### 3. Configure git with Rstudio ###########################################
 
 ## set your user name and email:
 usethis::use_git_config(user.name = "laurabashor", user.email = "laurabashor@mail.com")
