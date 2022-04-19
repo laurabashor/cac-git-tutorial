@@ -20,4 +20,5 @@ credentials::set_github_pat("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")
 usethis::git_sitrep()
 
 #making a change to the file here!
-#merge conflict
+
+#adding more changes to test a merge conflict
