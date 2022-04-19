@@ -8,6 +8,7 @@ usethis::create_github_token()
 ## in case usethis version < 2.0.0: usethis::browse_github_token() (or even better: update usethis!)
 
 ## set personal access token:
+#don't leave it in script!!
 credentials::set_github_pat("")
 
 ## or store it manually in '.Renviron':
@@ -19,5 +20,6 @@ credentials::set_github_pat("")
 
 usethis::git_sitrep()
 
-#making a change to the file here!!
+#making a change to the file here!
 #adding more changes to test a merge conflict
+#trying git diff
